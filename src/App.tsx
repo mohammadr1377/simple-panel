@@ -21,10 +21,11 @@ function App() {
     setIsLogin(!!value);
    
   }
+  
 
   return (
     <div className="bg-gray-300 min-h-screen">
-      <BrowserRouter basename="/simple-panel">
+      <BrowserRouter basename={`${process.env.REACT_APP_BASENAME }` } >
         <Routes>
           <>
             {isLogin ? (
