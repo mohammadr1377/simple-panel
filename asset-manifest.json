@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf44523f.css",
-    "main.js": "/static/js/main.ee307a50.js",
-    "static/media/Vazirmatn-Medium.woff2": "/static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
-    "index.html": "/index.html"
+    "main.css": "/simple-panel/static/css/main.7af337ff.css",
+    "main.js": "/simple-panel/static/js/main.2facd8d0.js",
+    "static/media/Vazirmatn-Medium.woff2": "/simple-panel/static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
+    "index.html": "/simple-panel/index.html"
   },
   "entrypoints": [
-    "static/css/main.cf44523f.css",
-    "static/js/main.ee307a50.js"
+    "static/css/main.7af337ff.css",
+    "static/js/main.2facd8d0.js"
   ]
 }
