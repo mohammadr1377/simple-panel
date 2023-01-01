@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="bg-gray-300 min-h-screen">
-      <BrowserRouter>
+      <BrowserRouter basename="/simple-panel">
         <Routes>
           <>
             {isLogin ? (
